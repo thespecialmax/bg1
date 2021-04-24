@@ -1,0 +1,320 @@
+@font-face {
+  font-family: 'Iconos-Familia-Fitness';
+  src:  url('../fonts/Iconos-Familia-Fitness.eot');
+  src:  url('../fonts/Iconos-Familia-Fitness.eot#iefix') format('embedded-opentype'),
+    url('../fonts/Iconos-Familia-Fitness.ttf') format('truetype'),
+    url('../fonts/Iconos-Familia-Fitness.woff') format('woff'),
+    url('../fonts/Iconos-Familia-Fitness.svg#Iconos-Familia-Fitness') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icono-"], [class*=" icono-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Iconos-Familia-Fitness' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icono-people-14:before {
+  content: "\e900";
+}
+.icono-people-13:before {
+  content: "\e901";
+}
+.icono-people-12:before {
+  content: "\e902";
+}
+.icono-people-11:before {
+  content: "\e903";
+}
+.icono-people-10:before {
+  content: "\e904";
+}
+.icono-people-9:before {
+  content: "\e905";
+}
+.icono-people-8:before {
+  content: "\e906";
+}
+.icono-people-7:before {
+  content: "\e907";
+}
+.icono-people-6:before {
+  content: "\e908";
+}
+.icono-people-5:before {
+  content: "\e909";
+}
+.icono-family-group-of-father-and-mother-with-two-babies-and-a-dog:before {
+  content: "\e90a";
+}
+.icono-family-1:before {
+  content: "\e90b";
+}
+.icono-family:before {
+  content: "\e90c";
+}
+.icono-sports-6:before {
+  content: "\e90d";
+}
+.icono-healthy-1:before {
+  content: "\e90e";
+}
+.icono-ball:before {
+  content: "\e90f";
+}
+.icono-gym-5:before {
+  content: "\e910";
+}
+.icono-silhouettes:before {
+  content: "\e911";
+}
+.icono-game:before {
+  content: "\e912";
+}
+.icono-sports-5:before {
+  content: "\e913";
+}
+.icono-woman:before {
+  content: "\e914";
+}
+.icono-sports-4:before {
+  content: "\e915";
+}
+.icono-music:before {
+  content: "\e916";
+}
+.icono-business:before {
+  content: "\e917";
+}
+.icono-sports-3:before {
+  content: "\e918";
+}
+.icono-silhouette-1:before {
+  content: "\e919";
+}
+.icono-people-4:before {
+  content: "\e91a";
+}
+.icono-speed:before {
+  content: "\e91b";
+}
+.icono-ball-of-basketball:before {
+  content: "\e91c";
+}
+.icono-strategy:before {
+  content: "\e91d";
+}
+.icono-football:before {
+  content: "\e91e";
+}
+.icono-goal:before {
+  content: "\e91f";
+}
+.icono-soccer-ball-variant:before {
+  content: "\e920";
+}
+.icono-swimming-figure:before {
+  content: "\e921";
+}
+.icono-drink-1:before {
+  content: "\e922";
+}
+.icono-massage-and-spa:before {
+  content: "\e923";
+}
+.icono-night:before {
+  content: "\e924";
+}
+.icono-man-in-bed:before {
+  content: "\e925";
+}
+.icono-hotel-sign:before {
+  content: "\e926";
+}
+.icono-food-7:before {
+  content: "\e927";
+}
+.icono-food-6:before {
+  content: "\e928";
+}
+.icono-food-5:before {
+  content: "\e929";
+}
+.icono-food-4:before {
+  content: "\e92a";
+}
+.icono-fruit-1:before {
+  content: "\e92b";
+}
+.icono-drink:before {
+  content: "\e92c";
+}
+.icono-food-3:before {
+  content: "\e92d";
+}
+.icono-fruit-3:before {
+  content: "\e92e";
+}
+.icono-food-2:before {
+  content: "\e92f";
+}
+.icono-cheese:before {
+  content: "\e930";
+}
+.icono-food-1:before {
+  content: "\e931";
+}
+.icono-fruit-2:before {
+  content: "\e932";
+}
+.icono-fruits:before {
+  content: "\e933";
+}
+.icono-food:before {
+  content: "\e934";
+}
+.icono-medical-2:before {
+  content: "\e935";
+}
+.icono-people-3:before {
+  content: "\e936";
+}
+.icono-fitness-facilities:before {
+  content: "\e937";
+}
+.icono-tomatoe:before {
+  content: "\e938";
+}
+.icono-meat:before {
+  content: "\e939";
+}
+.icono-carrot:before {
+  content: "\e93a";
+}
+.icono-sports-2:before {
+  content: "\e93b";
+}
+.icono-gym-13:before {
+  content: "\e93c";
+}
+.icono-gym-12:before {
+  content: "\e93d";
+}
+.icono-gym-11:before {
+  content: "\e93e";
+}
+.icono-signal:before {
+  content: "\e93f";
+}
+.icono-sports-1:before {
+  content: "\e940";
+}
+.icono-people-2:before {
+  content: "\e941";
+}
+.icono-tool:before {
+  content: "\e942";
+}
+.icono-gym-10:before {
+  content: "\e943";
+}
+.icono-gym-9:before {
+  content: "\e944";
+}
+.icono-exercise:before {
+  content: "\e945";
+}
+.icono-gym-8:before {
+  content: "\e946";
+}
+.icono-sport:before {
+  content: "\e947";
+}
+.icono-time-2:before {
+  content: "\e948";
+}
+.icono-gym-7:before {
+  content: "\e949";
+}
+.icono-fashion:before {
+  content: "\e94a";
+}
+.icono-signs:before {
+  content: "\e94b";
+}
+.icono-check:before {
+  content: "\e94c";
+}
+.icono-arrows:before {
+  content: "\e94d";
+}
+.icono-clock:before {
+  content: "\e94e";
+}
+.icono-shapes:before {
+  content: "\e94f";
+}
+.icono-fruit:before {
+  content: "\e950";
+}
+.icono-gym-6:before {
+  content: "\e951";
+}
+.icono-silhouette:before {
+  content: "\e952";
+}
+.icono-time-1:before {
+  content: "\e953";
+}
+.icono-healthy:before {
+  content: "\e954";
+}
+.icono-people-1:before {
+  content: "\e955";
+}
+.icono-gym-4:before {
+  content: "\e956";
+}
+.icono-medical-1:before {
+  content: "\e957";
+}
+.icono-gym-3:before {
+  content: "\e958";
+}
+.icono-time:before {
+  content: "\e959";
+}
+.icono-gym-2:before {
+  content: "\e95a";
+}
+.icono-gym-1:before {
+  content: "\e95b";
+}
+.icono-book:before {
+  content: "\e95c";
+}
+.icono-people:before {
+  content: "\e95d";
+}
+.icono-medical:before {
+  content: "\e95e";
+}
+.icono-gym:before {
+  content: "\e95f";
+}
+.icono-sports:before {
+  content: "\e960";
+}
+.icono-man:before {
+  content: "\e961";
+}
